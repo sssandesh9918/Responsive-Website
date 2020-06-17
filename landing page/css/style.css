@@ -100,7 +100,7 @@ main{
 .services{
   background-color: #f1c11a;
   height: 50vh;
-  clip-path: polygon(0 0, 15% 0, 50% 20%, 85% 0, 100% 0, 100% 100%, 0 100%, 0 0);
+  clip-path: polygon(0 0, 15% 0, 50% 5%, 85% 0, 100% 0, 100% 100%, 0 100%, 0 0);
   margin-top: -15vh;
 }
 
